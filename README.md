@@ -1,4 +1,6 @@
 # 2-D-Balloon-Game
+The friend who created this game with me [Ismail Kaya](https://github.com/ismai1kaya).
+
 A simple android balloon game with unity and C#
 ### Main Menu 
 <p align="center"> <img src="https://user-images.githubusercontent.com/109510628/230629382-2224456c-b7bc-428c-a53a-5dd5d38a339e.jpg" alt="giris" width="360" height="800" > </p>
